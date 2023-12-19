@@ -13,9 +13,9 @@ export const Bio = {
     resume:
       "https://drive.google.com/file/d/1pKwtGrAtiS8MJPtqM8pW9O6ffMfbjqA_/view?usp=drive_link",
     linkedin: "https://www.linkedin.com/in/venkatesh-gollapalli-69aa28258/",
-    twitter: "https://twitter.com/RishavChanda",
-    insta: "https://www.instagram.com/rishav_chanda/",
-    facebook: "https://www.facebook.com/rishav.chanda.165/",
+    twitter: "https://twitter.com/",
+    insta: "https://www.instagram.com/",
+    facebook: "https://www.facebook.com/",
   };
   
   export const skills = [
