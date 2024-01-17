@@ -47,7 +47,6 @@ function App() {
         <Body>
           <HeroSection />
           <Resume />
-          <h1>Gollapallivenky007@gmail.com</h1>
           <Wrapper>
             <Skills />
             <Experience />
